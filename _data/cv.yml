@@ -1,10 +1,10 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Fabian A. Paredes
+  label: Public Historian
+  email: leaderfabianap@gmail.com
+  location: Union City, NJ
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Archives and Public History student at NYU; 2024-2026
 
   social_networks:
     - network: X
@@ -15,39 +15,49 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 
+    city: Union City
+    region: New Jersey
+    postalCode: NJ 07087
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: New York University
+        location: New York, NY
+        url: https://wp.nyu.edu/nyuhistoryma/
+        area: Public History
+        studyType: MA
+        start_date: 2024
+        end_date: 2026
         score: ""
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Rutgers University - New Brunswick
+        location: New Brunswick, NJ
+        area: History
+        studyType: BA
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Hudson County Community College
+        location: Jersey City, NJ
+        area: History
+        studyType: AA
+        start_date: 2020
+        end_date: 2022
         highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
+      - company: Archival Collections, Princeton University
         position: Professor of Theoretical Physics
         location: Princeton University, NJ
         start_date: 1933
